@@ -1,0 +1,69 @@
+@import "./variables";
+
+.navigation {
+  position: fixed;
+  top: 0;
+  z-index: 2;
+  background-color: $background-white;
+  width: 100%;
+  border-bottom: 1px solid $border-color-grey;
+
+  .container {
+    padding: 1em 0 0.9em 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 0 auto;
+
+    .logo {
+      padding: 0 1.5em;
+      width: 100px;
+      
+      &:hover {
+        cursor: pointer;
+      }
+    }
+
+    .search {
+      border: 0;
+      border-radius: 8px;
+      padding: 8px 16px;
+      background-color: $background-grey;
+      width: 225px;
+      display: flex;
+      align-items: center;
+      justify-content: left;
+      margin-right: 1.5em;
+
+      .searchIcon {
+        width: 10px;
+        opacity: 0.4;
+        margin-right: 0.3em;
+      }
+
+      .searchText {
+        color: $font-color-secondary;
+        font-size: 1em;
+        font-weight: 300;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .container {
+
+    .logo {
+      padding: 0 0.5em !important;
+    }
+
+    .search {
+      display: none !important;
+    }
+
+    .menu {
+      padding-right: 0.5em !important;
+    }
+  }
+}
