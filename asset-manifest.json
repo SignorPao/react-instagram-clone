@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-instagram-clone/static/css/main.415fbb5b.css",
+    "main.js": "/react-instagram-clone/static/js/main.ad7c7006.js",
+    "static/media/profile.jpg": "/react-instagram-clone/static/media/profile.f18a0abebe0bf67f3f39.jpg",
+    "static/media/instaLogo.png": "/react-instagram-clone/static/media/instaLogo.40b372dcace690d45a49.png",
+    "static/media/add.svg": "/react-instagram-clone/static/media/add.aed21d20e9f0c621381afbc8a152212e.svg",
+    "static/media/activity.svg": "/react-instagram-clone/static/media/activity.48bd7b291a35f5f11cbef15838c114f2.svg",
+    "static/media/chat.svg": "/react-instagram-clone/static/media/chat.346dcf6522eebf31a1cca3e17d192c7d.svg",
+    "static/media/find.svg": "/react-instagram-clone/static/media/find.0af4f4a56329a1327718d4bfcd66945c.svg",
+    "index.html": "/react-instagram-clone/index.html",
+    "static/media/smile.svg": "/react-instagram-clone/static/media/smile.8142679860c07322dc17647574f79eb5.svg",
+    "static/media/send.svg": "/react-instagram-clone/static/media/send.7b9eef036989cd3c930a73502c9d02e6.svg",
+    "static/media/home.svg": "/react-instagram-clone/static/media/home.fb0ed4d2200bbd8b4cd382accd1c712e.svg",
+    "static/media/cardButton.svg": "/react-instagram-clone/static/media/cardButton.f55f0b460bc6bf7afb9b77be6d0883f7.svg",
+    "static/media/bookmark.svg": "/react-instagram-clone/static/media/bookmark.cbbe0bec71b11523dc6e41c1192d96db.svg",
+    "static/media/comments.svg": "/react-instagram-clone/static/media/comments.76cabe5085515777ffcb7c056e1895df.svg",
+    "main.415fbb5b.css.map": "/react-instagram-clone/static/css/main.415fbb5b.css.map",
+    "main.ad7c7006.js.map": "/react-instagram-clone/static/js/main.ad7c7006.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.415fbb5b.css",
+    "static/js/main.ad7c7006.js"
+  ]
+}
